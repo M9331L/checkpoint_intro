@@ -1,6 +1,6 @@
-# checkpoint_intro
+# Estimación del nivel socioeconómico
 
-2. Estimación del nivel socioeconómico de un radio censal
+Estimación del nivel socioeconómico de un radio censal
 La siguiente metodología permite obtener una estimación del nivel socioeconómico de un radio censal de la Ciudad Autónoma de Buenos Aires. Esta metodología es una adaptación con modificaciones de la utilizada por el ITDP de México (Instituto de Políticas para el Transporte y el Desarrollo) para la estimación del nivel socioeconómico de un área geoestadística básica (AGEB) de la Zona Metropolitana del Valle de México (ZMVM).
 
 En líneas generales, consiste en realizar un análisis de componentes principales a partir de tres índices que reflejan diferentes aspectos del nivel socioeconómico de un radio censal de la Ciudad.
